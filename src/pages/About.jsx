@@ -15,7 +15,7 @@ export default function About() {
           <h1 className="text-5xl lg:text-6xl font-bold mt-8">HKD Napredak</h1>
 
           <p className="mt-6 text-lg text-red-100 max-w-3xl mx-auto">
-            Društvo koje čuva kulturu, tradiciju i zajedništvo kroz generacije.
+            Društvo koje čuva knjige, tradiciju i zajedništvo kroz generacije.
           </p>
         </div>
       </section>
